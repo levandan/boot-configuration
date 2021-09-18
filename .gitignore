@@ -1,0 +1,39 @@
+### build path
+target/
+dist/
+package-lock.json
+ignite/
+build/
+# Node build path
+front/node_modules
+
+### IDE config
+.classpath
+.project
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### git ignore ###
+src/main/resources/public
+
+### File upload ###
+uploads
+
+### Test result ###
+coverage/
+
+### Etc ###
+.DS_Store
+C:
+/batchdb.*
+/.apt_generated/
+/.apt_generated_tests/
+/*.factorypath
+/*.factorypath
+/*.factorypath
+/.metadata
+/.factorypath
