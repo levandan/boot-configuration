@@ -4,13 +4,14 @@ dist/
 package-lock.json
 ignite/
 build/
+.gradle/
 # Node build path
 front/node_modules
 
 ### IDE config
 .classpath
 .project
-
+.gradle
 ### IntelliJ IDEA ###
 .idea
 *.iws
